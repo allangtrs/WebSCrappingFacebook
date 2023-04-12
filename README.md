@@ -1,17 +1,17 @@
 # Facebook Marketplace Scrapper
 This is a Python script that uses the Selenium and Pandas libraries to scrape data from Facebook Marketplace search results and save it in a CSV file.
 
-## Product
+## Final Product
 This code example is designed to scrape Facebook Marketplace for bass guitar listings and store the relevant data in a CSV file. The data includes the name of the bass, its price, and a URL to the listing.
 
-## Tools
+## Tools Used
 The code is written in Python and uses the following libraries:
 
 - pandas: for storing the scraped data in a DataFrame and exporting it to a CSV file.
 - selenium: for automating the web browsing process and scraping data from Facebook Marketplace.
 - webdriver: for driving the Chrome browser and navigating Facebook Marketplace.
 
-## Process
+## Execution Process
 The process of scraping Facebook Marketplace for bass guitar listings involves the following steps:
 
 1. Open Chrome browser using the webdriver and navigate to the Facebook login page.
